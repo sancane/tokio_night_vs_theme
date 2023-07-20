@@ -105,7 +105,7 @@ format = '[[  $time ](fg:#a0a9cb bg:#1e232b)]($style)'
 
 [cmd_duration]
 style = "bg:#17181c"
-format = '[[took $duration ](fg:#a0a9cb bg:#17181c)]($style)'
+format = '[[took $duration ](fg:#777d8f bg:#17181c)]($style)'
 
 
 [os]
