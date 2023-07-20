@@ -110,7 +110,7 @@ format = '[[took $duration ](fg:#777d8f bg:#17181c)]($style)'
 
 [os]
 disabled = false
-format = "[$symbol](bg:#a3aed2 fg:#090c0c)($style)"
+format = "[$symbol](bg:#a3aed2 fg:#3a4a66)($style)"
 style = "bg:#a3aed2"
 
 [os.symbols]
